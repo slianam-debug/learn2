@@ -65,7 +65,8 @@
 \end{center}
 \bigskip
 \noindent {\bf Problem 1.16 (HW \# 1)} 
-Let $P=(u=v_0,v_1, \dots, v_k=v)$, $k\ge 1$, be a $u-v$ geodesic in a connected graph $G$. Prove: 
+Let $P=(u=v_0,v_1, \dots, v_k=v)$, $k\ge 1$, be a $u-v$ geodesic 
+in a connected graph $G$. Prove: 
 \[
 d(u,v_i)=i \qquad \text{for each integer $i$ with $1\le i\le k$}
 \]  
