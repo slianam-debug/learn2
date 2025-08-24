@@ -30,7 +30,7 @@
         <p> [Problem B]:  Let <m>S</m> be a finite set of integers and let <m>G</m> be the graph on vertex set <m>S</m> where for any <m>x,y\in S</m>, <m>xy\in E(G)</m> if and only if <m>x+y</m> is odd.
 <ol>
 <li> Prove that <m>G</m> is a bipartite graph for any such <m>S</m>: indentify the partite sets and explain why they satisfy the definition. </li>
-<li> If <m>S=\{1, 2, \dots, 100\}</m>, find the value of <m>|E(G)|</m> (the number of edges of <m>G</m>)? Justify your answer.</li>
+<li> If <m>S=\{1, 2, \dots, 100\}</m>, find the value of <m>|E(G)|</m> (the number of edges of <m>G</m>). Justify your answer.</li>
 </ol>
   </p>
       </statement>
