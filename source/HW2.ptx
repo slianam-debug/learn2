@@ -1,8 +1,74 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <section xml:id="HW2" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <title>Homework 2</title>
+  <title>Homework 2 </title>
+   
+  <p><alert> Due Thursday, September 11</alert></p>
 
-  <p> Coming up </p>
+  
+  
+<exercises xml:id="hw2-ex">
+    <exercise>
+      <statement>
+        <p>
+        Reading assignment: Read Section 1.4 (Multigraphs and digraphs)
+        </p>
+      </statement>
+    </exercise>
+ <exercise>
+        <statement>
+      <p>
+    [From the book]:  1.32(a), 2.1, 2.3, 2.5, 2.7
+  </p>
+</statement>
+<solution>
+  <p>
+    Note that odd problems have hints/solutions at the back of the book. You can certainly look at those, but please write the solutions in your own words, add details where needed,  and keep in mind that similar problems may show up on the next quiz/exam, so make sure you can solve them independently.
+  </p>
+</solution>
+    </exercise>
+
+    <exercise>
+      <statement>
+        <p> [Problem A]:  Prove that every graph with at least two vertices has a pair of vertices with the same degree.
+        </p>
+        <p>  <alert> This problem needs to be written in Overleaf and printed out</alert>
+  </p>
+      </statement>
+      <hint>
+        <p>
+          Use the Pigeonhole principle. Make sure to indicate clearly pigeons=?, holes=? and explain why there are more pigeons than holes
+        </p>
+      </hint>
+    </exercise>
+
+</exercises>
+
+
+<subsection>
+  <title> Overleaf code: </title>
+
+<p>
+  Create a new file in Overleaf and copy/paste the code: 
+</p>
+<cd>\documentclass{amsart}
+\usepackage[margin=1in]{geometry}
+\usepackage{amsmath,amssymb}
+\usepackage{graphicx} % Required for inserting images
+\begin{document}
+\begin{center}
+{\bf MATH 314 HW\# 2 Proof problem}
+\end{center}
+\bigskip
+\noindent {\bf Problem A} 
+Prove that every graph with at least two vertices has a pair of vertices with the same degree. 
+\bigskip
+\begin{proof}
+    Write your proof here. 
+\end{proof}
+\end{document}
+</cd>
+</subsection>
+
 
 </section>
