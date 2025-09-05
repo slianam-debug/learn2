@@ -52,7 +52,34 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "1.2",
   "title": "Homework 2",
-  "body": " Homework 2  Coming up  "
+  "body": " Homework 2  Due Thursday, September 11     Reading assignment: Read Section 1.4 (Multigraphs and digraphs)      [From the book]: 1.32(a), 2.1, 2.3, 2.5, 2.7    Note that odd problems have hints\/solutions at the back of the book. You can certainly look at those, but please write the solutions in your own words, add details where needed, and keep in mind that similar problems may show up on the next quiz\/exam, so make sure you can solve them independently.      [Problem A]: Prove that every graph with at least two vertices has a pair of vertices with the same degree.   This problem needs to be written in Overleaf and printed out     Use the Pigeonhole principle. Make sure to indicate clearly pigeons=?, holes=? and explain why there are more pigeons than holes      Overleaf code:  Create a new file in Overleaf and copy\/paste the code:  \\documentclass{amsart} \\usepackage[margin=1in]{geometry} \\usepackage{amsmath,amssymb} \\usepackage{graphicx} % Required for inserting images \\begin{document} \\begin{center} {\\bf MATH 314 HW\\# 2 Proof problem} \\end{center} \\bigskip \\noindent {\\bf Problem A} Prove that every graph with at least two vertices has a pair of vertices with the same degree. \\bigskip \\begin{proof} Write your proof here. \\end{proof} \\end{document}   "
+},
+{
+  "id": "hw2-ex-1",
+  "level": "2",
+  "url": "HW2.html#hw2-ex-1",
+  "type": "Exercise",
+  "number": "1.2.1.1",
+  "title": "",
+  "body": "  Reading assignment: Read Section 1.4 (Multigraphs and digraphs)   "
+},
+{
+  "id": "hw2-ex-2",
+  "level": "2",
+  "url": "HW2.html#hw2-ex-2",
+  "type": "Exercise",
+  "number": "1.2.1.2",
+  "title": "",
+  "body": "  [From the book]: 1.32(a), 2.1, 2.3, 2.5, 2.7    Note that odd problems have hints\/solutions at the back of the book. You can certainly look at those, but please write the solutions in your own words, add details where needed, and keep in mind that similar problems may show up on the next quiz\/exam, so make sure you can solve them independently.   "
+},
+{
+  "id": "hw2-ex-3",
+  "level": "2",
+  "url": "HW2.html#hw2-ex-3",
+  "type": "Exercise",
+  "number": "1.2.1.3",
+  "title": "",
+  "body": "  [Problem A]: Prove that every graph with at least two vertices has a pair of vertices with the same degree.   This problem needs to be written in Overleaf and printed out     Use the Pigeonhole principle. Make sure to indicate clearly pigeons=?, holes=? and explain why there are more pigeons than holes   "
 },
 {
   "id": "HW3",
