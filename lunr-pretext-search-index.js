@@ -88,7 +88,43 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "1.3",
   "title": "Homework 3",
-  "body": " Homework 3  "
+  "body": " Homework 3  Due Thursday, September 18     [From the book]: 2.32, 2.34, 3.1, 3.3, 3.4     [Problem A]: A group of 9 friends (call them A,B,C, ...) want to exchange gifts for Christmas, but they do not have quite enough money to buy presents for everybody. They make the following rules for the gift exchange:   If X gives a gift to Y, then Y also gives a gift to X.    Each person in the group is to receive exactly 6 gifts from 6 different friends (and will also give 6 gifts)      Draw a graph that illustrates one possible way the group can plan their gift giving, and make connections with what you learned in class. (Does the graph have a name?) Then, provide instructions for gift-giving: Tell each person in the group who to buy presents for.    If the friends decide to reduce the number of gifts, so that each person in the group will receive exactly 5 gifts from 5 different friends (and also receive 5 gifts), do the same task as in the first part, if possible. If not possible, explain why.        [Problem B]: Prove that if is a graph with , then must contain a cycle.   This problem needs to be written in Overleaf and printed out     Proceed by contradiction, assuming there is no cycle. Choose a path of longest length in the graph. Use the no cycle assumption and the hypothesis that to construct a path of larger length, contradicting the assumption on .      If you turned in your Overleaf problem from Homework 1, and you were in class on Thursday, you received feedback on your writing. Please revise the problem accordingly, but do not turn it in again just yet. If you did not turn in your Overleaf problem from Homework 1, you should turn it in now, so that I can give you feedback. While I am not grading anyone on these problems just yet, I will eventually assign a grade for these problems.      Overleaf code:  Create a new file in Overleaf and copy\/paste the code:  \\documentclass{amsart} \\usepackage[margin=1in]{geometry} \\usepackage{amsmath,amssymb} \\usepackage{graphicx} % Required for inserting images \\begin{document} \\begin{center} {\\bf MATH 314 HW\\# 3 Proof problem} \\end{center} \\bigskip \\noindent {\\bf Problem B} Prove that if $G$ is a graph with $\\delta(G)\\geq 2$, then $G$ must contain a cycle. \\bigskip \\begin{proof} Write your proof here. \\end{proof} \\end{document}   "
+},
+{
+  "id": "hw3-ex-1",
+  "level": "2",
+  "url": "HW3.html#hw3-ex-1",
+  "type": "Exercise",
+  "number": "1.3.1.1",
+  "title": "",
+  "body": "  [From the book]: 2.32, 2.34, 3.1, 3.3, 3.4   "
+},
+{
+  "id": "hw3-ex-2",
+  "level": "2",
+  "url": "HW3.html#hw3-ex-2",
+  "type": "Exercise",
+  "number": "1.3.1.2",
+  "title": "",
+  "body": " [Problem A]: A group of 9 friends (call them A,B,C, ...) want to exchange gifts for Christmas, but they do not have quite enough money to buy presents for everybody. They make the following rules for the gift exchange:   If X gives a gift to Y, then Y also gives a gift to X.    Each person in the group is to receive exactly 6 gifts from 6 different friends (and will also give 6 gifts)      Draw a graph that illustrates one possible way the group can plan their gift giving, and make connections with what you learned in class. (Does the graph have a name?) Then, provide instructions for gift-giving: Tell each person in the group who to buy presents for.    If the friends decide to reduce the number of gifts, so that each person in the group will receive exactly 5 gifts from 5 different friends (and also receive 5 gifts), do the same task as in the first part, if possible. If not possible, explain why.     "
+},
+{
+  "id": "hw3-ex-3",
+  "level": "2",
+  "url": "HW3.html#hw3-ex-3",
+  "type": "Exercise",
+  "number": "1.3.1.3",
+  "title": "",
+  "body": "  [Problem B]: Prove that if is a graph with , then must contain a cycle.   This problem needs to be written in Overleaf and printed out     Proceed by contradiction, assuming there is no cycle. Choose a path of longest length in the graph. Use the no cycle assumption and the hypothesis that to construct a path of larger length, contradicting the assumption on .   "
+},
+{
+  "id": "hw3-ex-4",
+  "level": "2",
+  "url": "HW3.html#hw3-ex-4",
+  "type": "Exercise",
+  "number": "1.3.1.4",
+  "title": "",
+  "body": "  If you turned in your Overleaf problem from Homework 1, and you were in class on Thursday, you received feedback on your writing. Please revise the problem accordingly, but do not turn it in again just yet. If you did not turn in your Overleaf problem from Homework 1, you should turn it in now, so that I can give you feedback. While I am not grading anyone on these problems just yet, I will eventually assign a grade for these problems.   "
 },
 {
   "id": "HW4",
