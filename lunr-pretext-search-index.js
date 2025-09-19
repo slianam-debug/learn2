@@ -133,7 +133,25 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "1.4",
   "title": "Homework 4",
-  "body": " Homework 4  "
+  "body": " Homework 4  Due Thursday, September 25     [From the book]: 3.7, 3.8, 3.9, 3.17, 3.21, 3.22, 3.24     [Problem A]: How many distinct equivalence classes (under the relation of isomorphism) for a graph with 4 vertices are there? Draw exactly one graph for each equivalence class. (Only draw non-isomorphic graphs.)    "
+},
+{
+  "id": "hw4-ex-1",
+  "level": "2",
+  "url": "HW4.html#hw4-ex-1",
+  "type": "Exercise",
+  "number": "1.4.1",
+  "title": "",
+  "body": "  [From the book]: 3.7, 3.8, 3.9, 3.17, 3.21, 3.22, 3.24   "
+},
+{
+  "id": "hw4-ex-2",
+  "level": "2",
+  "url": "HW4.html#hw4-ex-2",
+  "type": "Exercise",
+  "number": "1.4.2",
+  "title": "",
+  "body": " [Problem A]: How many distinct equivalence classes (under the relation of isomorphism) for a graph with 4 vertices are there? Draw exactly one graph for each equivalence class. (Only draw non-isomorphic graphs.)  "
 },
 {
   "id": "HW5",
@@ -160,7 +178,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "2.1",
   "title": "Review for Exam 1",
-  "body": " Review for Exam 1  TBD  "
+  "body": " Review for Exam 1  Topics covered by Exam 1     Section 1.1 - Graphs and graph models     Definitions and concepts:    graph    edge    vertex    trivial graph    order    size         Section 1.2 Connected graphs     Definitions and concepts    adjacent vertices    vertex (edge) incident to an edge (vertex)    subgraph    the graph , where is an edge    the graph , where is a vertex    walk    closed walk    trail\/circuit    path\/cycle     -cycle, even cycle, odd cycle    connected graph    length of a walk    distance between two vertices      geodesic    diameter of a graph    component of a graph      Applications and theorems:    Theorem 1.6 - Be able to prove     Theorem 1.7        I WILL ADD MORE LATER  "
 },
 {
   "id": "backmatter-2",
