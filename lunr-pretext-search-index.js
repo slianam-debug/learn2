@@ -160,7 +160,25 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "1.5",
   "title": "Homework 5",
-  "body": " Homework 5  "
+  "body": " Homework 5  Due Thursday, October 3rd     [From the book]: 4.2 (write in Overleaf!), 4.7     [Problem A]: Draw a graph with 3 edges that are bridges and 10 edges that are not bridges.     Overleaf code for problem 4.2:  Create a new file in Overleaf and copy\/paste the code:  \\documentclass{amsart} \\usepackage[margin=1in]{geometry} \\usepackage{amsmath,amssymb} \\usepackage{graphicx} % Required for inserting images \\begin{document} \\begin{center} {\\bf MATH 314 HW\\# 5 Proof problem} \\end{center} \\bigskip \\noindent {\\bf Problem 4.2} Prove that every connected graph all of whose vertices have even degrees contains no bridges. \\bigskip \\begin{proof} Write your proof here. \\end{proof} \\end{document}   "
+},
+{
+  "id": "hw5-ex-1",
+  "level": "2",
+  "url": "HW5.html#hw5-ex-1",
+  "type": "Exercise",
+  "number": "1.5.1.1",
+  "title": "",
+  "body": "  [From the book]: 4.2 (write in Overleaf!), 4.7   "
+},
+{
+  "id": "hw5-ex-2",
+  "level": "2",
+  "url": "HW5.html#hw5-ex-2",
+  "type": "Exercise",
+  "number": "1.5.1.2",
+  "title": "",
+  "body": " [Problem A]: Draw a graph with 3 edges that are bridges and 10 edges that are not bridges.  "
 },
 {
   "id": "HW6",
