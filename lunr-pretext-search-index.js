@@ -187,7 +187,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "1.6",
   "title": "Homework 6",
-  "body": " Homework 6  Due Thursday, October 8th     [From the book]: 4.9, 4.13, 4.14, 4.18, 4.25, 4.27, 4.28     "
+  "body": " Homework 6  Due Thursday, October 9th     [From the book]: 4.9, 4.13, 4.14, 4.18, 4.25, 4.27, 4.28     "
 },
 {
   "id": "hw6-ex-1",
