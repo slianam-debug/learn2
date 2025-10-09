@@ -205,7 +205,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "2.1",
   "title": "Review for Exam 1",
-  "body": " Review for Exam 1  Topics covered by Exam 1     Section 1.1 - Graphs and graph models     Definitions and concepts:    graph    edge    vertex    trivial graph    order    size         Section 1.2 Connected graphs     Definitions and concepts    adjacent vertices    vertex (edge) incident to an edge (vertex)    subgraph    the graph , where is an edge    the graph , where is a vertex    walk    closed walk    trail\/circuit    path\/cycle     -cycle, even cycle, odd cycle    connected graph    length of a walk    distance between two vertices      geodesic    diameter of a graph    component of a graph      Applications and theorems:    Theorem 1.6 - Be able to prove     Theorem 1.7        I WILL ADD MORE LATER  "
+  "body": " Review for Exam 1  Topics covered by Exam 1 THESE ARE POSTED IN CANVAS! "
 },
 {
   "id": "backmatter-2",
