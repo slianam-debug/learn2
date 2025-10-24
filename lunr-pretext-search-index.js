@@ -199,6 +199,87 @@ var ptx_lunr_docs = [
   "body": "  [From the book]: 4.9, 4.13, 4.14, 4.18, 4.25, 4.27, 4.28   "
 },
 {
+  "id": "HW7",
+  "level": "1",
+  "url": "HW7.html",
+  "type": "Section",
+  "number": "1.7",
+  "title": "Homework 7",
+  "body": " Homework 7  Due Friday, October 24th     Upload in Canvas the 4 problems that were assigned for writing in Overleaf, as a SINGLE file.     "
+},
+{
+  "id": "hw7-ex-1",
+  "level": "2",
+  "url": "HW7.html#hw7-ex-1",
+  "type": "Exercise",
+  "number": "1.7.1",
+  "title": "",
+  "body": "  Upload in Canvas the 4 problems that were assigned for writing in Overleaf, as a SINGLE file.   "
+},
+{
+  "id": "HW8",
+  "level": "1",
+  "url": "HW8.html",
+  "type": "Section",
+  "number": "1.8",
+  "title": "Homework 8",
+  "body": " Homework 8  Due Thursday, October 30th     [From the book]: 5.21, 5.31, 6.1     Determine the vertex- and edge- connectivity, indicating the minimum vertex-cuts and edge-cuts, of the following graph:     Prove there exists no -connected graph (in other words with ) with exactly 7 edges.    Let , where is the tree in Figure 4.3 (page 88) of your book.    Draw the graphs and     Find and , indicating the minimum vertex-cut and edge-cuts.      On page 121 of your book is described the construction of the Harary graph when both and are odd. This is no longer a regular graph (since no such graph exists when both and are odd), but it has vertices of degree and one vertex of degree . Read the construction in the book and draw the graph . Then, find its edge-connectivity.    Decide if the graph below is Eulerian. If it is, give an Eulerian circuit by enumerating the edges. Start at the vertex denoted S.     "
+},
+{
+  "id": "hw8-ex-1",
+  "level": "2",
+  "url": "HW8.html#hw8-ex-1",
+  "type": "Exercise",
+  "number": "1.8.1",
+  "title": "",
+  "body": "  [From the book]: 5.21, 5.31, 6.1   "
+},
+{
+  "id": "hw8-ex-2",
+  "level": "2",
+  "url": "HW8.html#hw8-ex-2",
+  "type": "Exercise",
+  "number": "1.8.2",
+  "title": "",
+  "body": " Determine the vertex- and edge- connectivity, indicating the minimum vertex-cuts and edge-cuts, of the following graph:   "
+},
+{
+  "id": "hw8-ex-3",
+  "level": "2",
+  "url": "HW8.html#hw8-ex-3",
+  "type": "Exercise",
+  "number": "1.8.3",
+  "title": "",
+  "body": " Prove there exists no -connected graph (in other words with ) with exactly 7 edges.  "
+},
+{
+  "id": "hw8-ex-4",
+  "level": "2",
+  "url": "HW8.html#hw8-ex-4",
+  "type": "Exercise",
+  "number": "1.8.4",
+  "title": "",
+  "body": " Let , where is the tree in Figure 4.3 (page 88) of your book.    Draw the graphs and     Find and , indicating the minimum vertex-cut and edge-cuts.    "
+},
+{
+  "id": "hw8-ex-5",
+  "level": "2",
+  "url": "HW8.html#hw8-ex-5",
+  "type": "Exercise",
+  "number": "1.8.5",
+  "title": "",
+  "body": " On page 121 of your book is described the construction of the Harary graph when both and are odd. This is no longer a regular graph (since no such graph exists when both and are odd), but it has vertices of degree and one vertex of degree . Read the construction in the book and draw the graph . Then, find its edge-connectivity.  "
+},
+{
+  "id": "hw8-ex-6",
+  "level": "2",
+  "url": "HW8.html#hw8-ex-6",
+  "type": "Exercise",
+  "number": "1.8.6",
+  "title": "",
+  "body": " Decide if the graph below is Eulerian. If it is, give an Eulerian circuit by enumerating the edges. Start at the vertex denoted S.   "
+},
+{
   "id": "Review1",
   "level": "1",
   "url": "Review1.html",
