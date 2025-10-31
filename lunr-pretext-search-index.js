@@ -223,7 +223,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "1.8",
   "title": "Homework 8",
-  "body": " Homework 8  Due Thursday, October 30th     [From the book]: 5.21, 5.31, 6.1     Determine the vertex- and edge- connectivity, indicating the minimum vertex-cuts and edge-cuts, of the following graph:     Prove there exists no -connected graph (in other words with ) with exactly 7 edges.    Let , where is the tree in Figure 4.3 (page 88) of your book.    Draw the graphs and     Find and , indicating the minimum vertex-cut and edge-cuts.      On page 121 of your book is described the construction of the Harary graph when both and are odd. This is no longer a regular graph (since no such graph exists when both and are odd), but it has vertices of degree and one vertex of degree . Read the construction in the book and draw the graph . Then, find its edge-connectivity.    Decide if the graph below is Eulerian. If it is, give an Eulerian circuit by enumerating the edges. Start at the vertex denoted S.     "
+  "body": " Homework 8  Due Thursday, October 30th     [From the book]: 5.21, 5.31, 6.1     Determine the vertex- and edge- connectivity, indicating the minimum vertex-cuts and edge-cuts, of the following graph:   a graph     Prove there exists no -connected graph (in other words with ) with exactly 7 edges.    Let , where is the tree in Figure 4.3 (page 88) of your book.    Draw the graphs and     Find and , indicating the minimum vertex-cut and edge-cuts.      On page 121 of your book is described the construction of the Harary graph when both and are odd. This is no longer a regular graph (since no such graph exists when both and are odd), but it has vertices of degree and one vertex of degree . Read the construction in the book and draw the graph . Then, find its edge-connectivity.    Decide if the graph below is Eulerian. If it is, give an Eulerian circuit by enumerating the edges. Start at the vertex denoted S.   a graph     "
 },
 {
   "id": "hw8-ex-1",
@@ -241,7 +241,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "1.8.2",
   "title": "",
-  "body": " Determine the vertex- and edge- connectivity, indicating the minimum vertex-cuts and edge-cuts, of the following graph:   "
+  "body": " Determine the vertex- and edge- connectivity, indicating the minimum vertex-cuts and edge-cuts, of the following graph:   a graph   "
 },
 {
   "id": "hw8-ex-3",
@@ -277,7 +277,43 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "1.8.6",
   "title": "",
-  "body": " Decide if the graph below is Eulerian. If it is, give an Eulerian circuit by enumerating the edges. Start at the vertex denoted S.   "
+  "body": " Decide if the graph below is Eulerian. If it is, give an Eulerian circuit by enumerating the edges. Start at the vertex denoted S.   a graph   "
+},
+{
+  "id": "HW9",
+  "level": "1",
+  "url": "HW9.html",
+  "type": "Section",
+  "number": "1.9",
+  "title": "Homework 9",
+  "body": " Homework 9  Due Thursday, October 30th     Find the optimal postman tour for the graph below. In other words, find a closed walk of minimum weight that uses all the edges at least once. Give the walk by enumerating the vertices. Then, compute the total weight of this walk. Show all steps of the algorithm.   Problem 1 figure         Prove that a bipartite graph that is Hamiltonian must have an even number of vertices.    For each of the graphs below, decide whether it is Hamiltonian or not. If it is Hamiltonian, give a Hamiltonian cycle. If it is not, you need to explain why not.     Part (a) figure         Part (b) figure         Part (c) figure         Part (d) figure          "
+},
+{
+  "id": "hw9-ex-1",
+  "level": "2",
+  "url": "HW9.html#hw9-ex-1",
+  "type": "Exercise",
+  "number": "1.9.1",
+  "title": "",
+  "body": "  Find the optimal postman tour for the graph below. In other words, find a closed walk of minimum weight that uses all the edges at least once. Give the walk by enumerating the vertices. Then, compute the total weight of this walk. Show all steps of the algorithm.   Problem 1 figure       "
+},
+{
+  "id": "hw9-ex-2",
+  "level": "2",
+  "url": "HW9.html#hw9-ex-2",
+  "type": "Exercise",
+  "number": "1.9.2",
+  "title": "",
+  "body": " Prove that a bipartite graph that is Hamiltonian must have an even number of vertices.  "
+},
+{
+  "id": "hw9-ex-3",
+  "level": "2",
+  "url": "HW9.html#hw9-ex-3",
+  "type": "Exercise",
+  "number": "1.9.3",
+  "title": "",
+  "body": " For each of the graphs below, decide whether it is Hamiltonian or not. If it is Hamiltonian, give a Hamiltonian cycle. If it is not, you need to explain why not.     Part (a) figure         Part (b) figure         Part (c) figure         Part (d) figure        "
 },
 {
   "id": "Review1",
