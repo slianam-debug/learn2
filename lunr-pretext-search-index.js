@@ -286,7 +286,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "1.9",
   "title": "Homework 9",
-  "body": " Homework 9  Due Thursday, October 30th     Find the optimal postman tour for the graph below. In other words, find a closed walk of minimum weight that uses all the edges at least once. Give the walk by enumerating the vertices. Then, compute the total weight of this walk. Show all steps of the algorithm.   Problem 1 figure         Prove that a bipartite graph that is Hamiltonian must have an even number of vertices.    For each of the graphs below, decide whether it is Hamiltonian or not. If it is Hamiltonian, give a Hamiltonian cycle. If it is not, you need to explain why not.     Part (a) figure         Part (b) figure         Part (c) figure         Part (d) figure          "
+  "body": " Homework 9  Due Thursday, November 6th     Find the optimal postman tour for the graph below. In other words, find a closed walk of minimum weight that uses all the edges at least once. Give the walk by enumerating the vertices. Then, compute the total weight of this walk. Show all steps of the algorithm.   Problem 1 figure         Prove that a bipartite graph that is Hamiltonian must have an even number of vertices.    For each of the graphs below, decide whether it is Hamiltonian or not. If it is Hamiltonian, give a Hamiltonian cycle. If it is not, you need to explain why not.     Part (a) figure         Part (b) figure         Part (c) figure         Part (d) figure          "
 },
 {
   "id": "hw9-ex-1",
