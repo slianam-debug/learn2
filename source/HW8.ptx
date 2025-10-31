@@ -20,7 +20,9 @@
 <p>
   Determine the vertex- and edge- connectivity, indicating the minimum vertex-cuts and edge-cuts, of the following graph: 
 </p>
-  <image source="connectivity.jpg" width="30%"/>
+  <image source="connectivity.jpg" width="30%">
+    <shortdescription>a graph</shortdescription>
+  </image>
 </exercise>
 
 <exercise>
@@ -62,7 +64,9 @@
     <p>
         Decide if the graph below is Eulerian. If it is, give an Eulerian circuit by enumerating the edges. Start at the vertex denoted S. 
     </p>
-    <image source="eulerian.jpg" width="60%"/>
+    <image source="eulerian.jpg" width="60%">
+       <shortdescription>a graph</shortdescription>
+  </image>
 </exercise>
 
 </exercises> 
