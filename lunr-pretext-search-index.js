@@ -286,7 +286,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "1.9",
   "title": "Homework 9",
-  "body": " Homework 9  Due Thursday, November 6th     Find the optimal postman tour for the graph below. In other words, find a closed walk of minimum weight that uses all the edges at least once. Give the walk by enumerating the vertices. Then, compute the total weight of this walk. Show all steps of the algorithm.   Problem 1 figure         Prove that a bipartite graph that is Hamiltonian must have an even number of vertices.    For each of the graphs below, decide whether it is Hamiltonian or not. If it is Hamiltonian, give a Hamiltonian cycle. If it is not, you need to explain why not.     Part (a) figure         Part (b) figure         Part (c) figure         Part (d) figure          "
+  "body": " Homework 9  Due Thursday, November 6th     Find the optimal postman tour for the graph below. In other words, find a closed walk of minimum weight that uses all the edges at least once. Give the walk by enumerating the vertices. Then, compute the total weight of this walk. Show all steps of the algorithm.   Problem 1 figure   a graph        Prove that a bipartite graph that is Hamiltonian must have an even number of vertices.    For each of the graphs below, decide whether it is Hamiltonian or not. If it is Hamiltonian, give a Hamiltonian cycle. If it is not, you need to explain why not.     Part (a) figure   a graph        Part (b) figure   a graph        Part (c) figure   a graph        Part (d) figure   a graph         "
 },
 {
   "id": "hw9-ex-1",
@@ -295,7 +295,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "1.9.1",
   "title": "",
-  "body": "  Find the optimal postman tour for the graph below. In other words, find a closed walk of minimum weight that uses all the edges at least once. Give the walk by enumerating the vertices. Then, compute the total weight of this walk. Show all steps of the algorithm.   Problem 1 figure       "
+  "body": "  Find the optimal postman tour for the graph below. In other words, find a closed walk of minimum weight that uses all the edges at least once. Give the walk by enumerating the vertices. Then, compute the total weight of this walk. Show all steps of the algorithm.   Problem 1 figure   a graph      "
 },
 {
   "id": "hw9-ex-2",
@@ -313,7 +313,52 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "1.9.3",
   "title": "",
-  "body": " For each of the graphs below, decide whether it is Hamiltonian or not. If it is Hamiltonian, give a Hamiltonian cycle. If it is not, you need to explain why not.     Part (a) figure         Part (b) figure         Part (c) figure         Part (d) figure        "
+  "body": " For each of the graphs below, decide whether it is Hamiltonian or not. If it is Hamiltonian, give a Hamiltonian cycle. If it is not, you need to explain why not.     Part (a) figure   a graph        Part (b) figure   a graph        Part (c) figure   a graph        Part (d) figure   a graph       "
+},
+{
+  "id": "HW10",
+  "level": "1",
+  "url": "HW10.html",
+  "type": "Section",
+  "number": "1.10",
+  "title": "Homework 10",
+  "body": " Homework 10  Due Thursday, November 13    Use the algorithm \"Double the tree\" for the following Traveling Salesman Problem. You need to show all the steps of the algorithm:   Find a minimum spanning tree (any algorithm you want);    Double the tree;    Find an Eulerian circuit for the doubled tree    Follow the Eulerian circuit, taking shortcuts as necessary to avoid repeating vertices.   The output should be a Hamiltonian cycle. Give the cycle by enumerating the vertices, and also compute the total weight.   a graph     Suppose certain pairs in a department of six people ( ) must meet privately in a single available conference room. The following is a list of pairs that need to meet: If a pair is in this list, e.g. , then this means that and need to meet.  Is it possible to sequence the two-person conferences so that one of the participants in eah conference (except for the last one) also participates in the next conference, but no one participates in three consecutive conferences? If so, describe how the sequencing needs to be done (who meets first, who meets next, etc.)  You need to answer this problem using concepts and results of graph theory that we talked about, and describe how the given problem can be translated into a problem about a graph, and then solve the problem using the graph.    Let (the path graph on vertices). Is the graph Hamiltonian? If the graph is Hamiltonian, you need to describe a Hamiltonian cycle (label the vertices as you wish). If it is not Hamiltonian, explain why.    Repeat problem 3 above with .    "
+},
+{
+  "id": "HW10-3-1",
+  "level": "2",
+  "url": "HW10.html#HW10-3-1",
+  "type": "Exercise",
+  "number": "1.10.1",
+  "title": "",
+  "body": " Use the algorithm \"Double the tree\" for the following Traveling Salesman Problem. You need to show all the steps of the algorithm:   Find a minimum spanning tree (any algorithm you want);    Double the tree;    Find an Eulerian circuit for the doubled tree    Follow the Eulerian circuit, taking shortcuts as necessary to avoid repeating vertices.   The output should be a Hamiltonian cycle. Give the cycle by enumerating the vertices, and also compute the total weight.   a graph   "
+},
+{
+  "id": "HW10-3-2",
+  "level": "2",
+  "url": "HW10.html#HW10-3-2",
+  "type": "Exercise",
+  "number": "1.10.2",
+  "title": "",
+  "body": " Suppose certain pairs in a department of six people ( ) must meet privately in a single available conference room. The following is a list of pairs that need to meet: If a pair is in this list, e.g. , then this means that and need to meet.  Is it possible to sequence the two-person conferences so that one of the participants in eah conference (except for the last one) also participates in the next conference, but no one participates in three consecutive conferences? If so, describe how the sequencing needs to be done (who meets first, who meets next, etc.)  You need to answer this problem using concepts and results of graph theory that we talked about, and describe how the given problem can be translated into a problem about a graph, and then solve the problem using the graph.  "
+},
+{
+  "id": "HW10-3-3",
+  "level": "2",
+  "url": "HW10.html#HW10-3-3",
+  "type": "Exercise",
+  "number": "1.10.3",
+  "title": "",
+  "body": " Let (the path graph on vertices). Is the graph Hamiltonian? If the graph is Hamiltonian, you need to describe a Hamiltonian cycle (label the vertices as you wish). If it is not Hamiltonian, explain why.  "
+},
+{
+  "id": "HW10-3-4",
+  "level": "2",
+  "url": "HW10.html#HW10-3-4",
+  "type": "Exercise",
+  "number": "1.10.4",
+  "title": "",
+  "body": " Repeat problem 3 above with .  "
 },
 {
   "id": "Review1",
