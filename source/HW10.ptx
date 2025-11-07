@@ -43,7 +43,10 @@
 <p>
  Suppose certain pairs in a department of six people (<m> A, B, C, D, E, F</m>) must meet privately in a single available conference room. The following is a list of pairs that need to meet: 
 <me>
-  \{A,B\}, \{A,D\}, \{A,E\}, \{B,C\}, \{B,D\}, \{B,F\}, \{C,E\}, \{D, E\}, \{D,F\}, \{E,F\}  
+  \{A,B\}, \{A,D\}, \{A,E\}, \{B,C\}, \{B,D\}, \{B,F\}, \{C,E\}, \{D, E\},
+</me>
+<me>
+   \{D,F\}, \{E,F\} 
 </me>
 If a pair is in this list, e.g. <m> \{A,B\}</m>, then this means that <m> A</m> and <m>B</m> need to meet. 
 </p>
