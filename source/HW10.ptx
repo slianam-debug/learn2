@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="HW10" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Homework 10</title>
+
+  <p><alert> Due Thursday, November 13</alert></p>
+
+ <exercises> 
+<exercise>
+<p>
+  Use the algorithm "Double the tree" for the following Traveling Salesman Problem. You need to show all the steps of the algorithm: 
+  <ol>
+    <li>
+        <p>
+        Find a minimum spanning tree (any algorithm you want);     
+        </p>
+    </li>
+    <li>
+        <p>
+          Double the tree;  
+        </p>
+    </li>
+    <li>
+        <p>
+         Find an Eulerian circuit for the doubled tree   
+        </p>
+    </li>
+    <li>
+        <p>
+          Follow the Eulerian circuit, taking shortcuts 
+  as necessary to avoid repeating vertices.   
+        </p>
+    </li>
+  </ol>  
+  The output should be a Hamiltonian cycle. Give the cycle by enumerating the vertices, and also compute the total weight. 
+</p>
+  <image source="TSP.jpg" width="50%">
+    <shortdescription>a graph</shortdescription>
+  </image>
+</exercise>
+
+<exercise>
+<p>
+ Suppose certain pairs in a department of six people (<m> A, B, C, D, E, F</m>) must meet privately in a single available conference room. The following is a list of pairs that need to meet: 
+<me>
+  \{A,B\}, \{A,D\}, \{A,E\}, \{B,C\}, \{B,D\}, \{B,F\}, \{C,E\}, \{D, E\}, \{D,F\}, \{E,F\}  
+</me>
+If a pair is in this list, e.g. <m> \{A,B\}</m>, then this means that <m> A</m> and <m>B</m> need to meet. 
+</p>
+    
+<p> Is it possible to sequence the two-person conferences so that one of the participants in eah conference (except for the last one) also participates in the next conference, but no one participates in three consecutive conferences? 
+If so, describe how the sequencing needs to be done (who meets first, who meets next, etc.) 
+</p>
+<p>
+You need to answer this problem using concepts and results of 
+graph theory that we talked about, and describe how the given problem can be translated into a problem about a graph, 
+and then solve the problem using the graph. 
+</p>
+</exercise>
+
+<exercise>
+    <p>
+    Let <m>G=P_4</m> (the path graph on <m>4</m> vertices). Is the graph <m>G^2</m> Hamiltonian? 
+    If the graph is Hamiltonian, you need to describe a Hamiltonian cycle (label the vertices as you wish). If it is not Hamiltonian, explain why. 
+    </p>
+</exercise>
+
+<exercise>
+    <p>
+        Repeat problem 3 above with <m>G=P_5</m>. 
+    </p>
+</exercise>
+
+</exercises> 
+
+  
+</section>
